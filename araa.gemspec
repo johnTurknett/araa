@@ -30,7 +30,7 @@ Gem::Specification.new do |spec|
     "README.md"
   ]
 
-  spec.add_dependency "rails", "~> 6.0.2", ">= 6.0.2.1"
+  spec.add_dependency "rails", "~> 7.0.0"
 
   spec.add_development_dependency "sqlite3"
 end
